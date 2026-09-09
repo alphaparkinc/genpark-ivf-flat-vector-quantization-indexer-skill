@@ -1,0 +1,13 @@
+{
+  "name": "genpark-ivf-flat-vector-quantization-indexer-skill",
+  "version": "1.0.0",
+  "description": "Inverted File Index with Flat Quantization (IVF-Flat) vector engine performing clustered Voronoi cell partitioning and fast top-K Euclidean ranking.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "ivf-flat",
+    "vector-database",
+    "ann-search",
+    "embeddings-index"
+  ]
+}
